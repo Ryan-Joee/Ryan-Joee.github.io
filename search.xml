@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>Linux学习</title>
+      <link href="/Ryan/Linux%E5%AD%A6%E4%B9%A0/"/>
+      <url>/Ryan/Linux%E5%AD%A6%E4%B9%A0/</url>
+      
+        <content type="html"><![CDATA[<div class="video-container">[up主专用，视频内嵌代码贴在这]</div><style>.video-container {    position: relative;    width: 100%;    padding-top: 56.25%; /* 16:9 aspect ratio (height/width = 9/16 * 100%) */}.video-container iframe {    position: absolute;    top: 0;    left: 0;    width: 100%;    height: 100%;}</style>]]></content>
+      
+      
+      <categories>
+          
+          <category> Linux </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> centOS </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hello World</title>
       <link href="/Ryan/hello-world/"/>
       <url>/Ryan/hello-world/</url>

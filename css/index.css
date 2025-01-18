@@ -6480,3 +6480,7 @@ blockquote.pullquote.right {
   color: #f47466;
   font-weight: 600;
 }
+.post-body ul {
+  list-style-type: disc;
+  margin-left: 20px;
+}

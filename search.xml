@@ -4,13 +4,38 @@
   
     
     <entry>
-      <title>Linux学习（三）</title>
-      <link href="/Ryan/Linux%E5%AD%A6%E4%B9%A0%EF%BC%88%E4%B8%89%EF%BC%89/"/>
-      <url>/Ryan/Linux%E5%AD%A6%E4%B9%A0%EF%BC%88%E4%B8%89%EF%BC%89/</url>
+      <title>git学习（一）</title>
+      <link href="/Ryan/git%E5%AD%A6%E4%B9%A0%EF%BC%88%E4%B8%80%EF%BC%89/"/>
+      <url>/Ryan/git%E5%AD%A6%E4%B9%A0%EF%BC%88%E4%B8%80%EF%BC%89/</url>
       
         <content type="html"><![CDATA[]]></content>
       
       
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Linux学习（三）</title>
+      <link href="/Ryan/Linux%E5%AD%A6%E4%B9%A0%EF%BC%88%E4%B8%89%EF%BC%89/"/>
+      <url>/Ryan/Linux%E5%AD%A6%E4%B9%A0%EF%BC%88%E4%B8%89%EF%BC%89/</url>
+      
+        <content type="html"><![CDATA[<h1 id="Linux组管理和权限管理"><a href="#Linux组管理和权限管理" class="headerlink" title="Linux组管理和权限管理"></a>Linux组管理和权限管理</h1><p>在Linux 中每个用户必须属于一个组，不能独立于组外。在Linux中每个文件有所有者、所在组、其他组的概念。在 <strong>Linux</strong> 系统中，<strong>组（Group）</strong> 是用户管理的重要部分，主要用于 <strong>权限控制</strong>，方便多个用户共享或限制对文件、目录的访问。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Linux </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Linux </tag>
+            
+        </tags>
       
     </entry>
     
